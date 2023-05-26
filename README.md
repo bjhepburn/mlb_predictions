@@ -1,2 +1,3 @@
-# nextBigBeer
-Designed to determine whether a craft beer will popular or not
+# nextWorldSeriesChampion
+
+Our goal is to create a ML model that will enable stakeholders to determine whether or not a Major League Baseball team will go to the post-season playoffs, as well as attempting to predict whether or a not a team will succeed at each round of the bracket-style, post-season tournament. We expect to find that our model will become less accurate for each round of the tournament, though we're excited and curious to find out. Our model will initially be developed using the team statistics for the 2018-2022 seasons, with consideration to add additional seasons if deemed necessary. Team statistics will be collected from https://www.baseball-reference.com/ for the purposes of this study.
